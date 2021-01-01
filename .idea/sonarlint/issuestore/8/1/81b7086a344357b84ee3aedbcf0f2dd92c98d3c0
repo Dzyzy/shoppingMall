@@ -1,0 +1,40 @@
+
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+f
+java:S1989g"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‰¹¿ûÿÿÿÿ
+J
+java:S1481_"/Remove this unused "prod_price" local variable.(¯¢ö‰ûÿÿÿÿ
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·öÅÄ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éïšÖúÿÿÿÿ
+L
+java:S2692N"10 is a valid index, but is ignored by this check.(á›”Öûÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó
+k
+java:S1989@"PHandle the following exception that could be thrown by "getWriter": IOException.(î…êıÿÿÿÿÿ
+D
+java:S2140G")Use "java.util.Random.nextInt()" instead.(ÍØ›¢şÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(°€İá
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª§ìàşÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍØ›¢şÿÿÿÿ
+o
+java:S1989F"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ì¥¬¥
+Y
+java:S1854_">Remove this useless assignment to local variable "prod_price".(¯¢ö‰ûÿÿÿÿ
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€İá
+f
+java:S1192-"KDefine a constant instead of duplicating this literal "prod_price" 3 times.(´ˆÉêıÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¾ûõ
+f	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¢ö‰ûÿÿÿÿ
+t
+java:S1989S"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¼¦ÙÆûÿÿÿÿ
+k
+java:S1989C"PHandle the following exception that could be thrown by "getWriter": IOException.(˜±ó½şÿÿÿÿ
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÉ

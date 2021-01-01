@@ -1,0 +1,36 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûÓÀûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï÷¼¥úÿÿÿÿ
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ıô§
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ø¡ù
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓŒ¶ûÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ã¬ñıÿÿÿÿ
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÁ­üÿÿÿÿ
+f	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÓ”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'Util.Orders_item'.(ôÿéõ
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+P
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€İá
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(°€İá
+t
+java:S1989`"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ìÁ­üÿÿÿÿ
+?
+java:S5413p")Verify that "remove()" is used correctly.(ÏÍâ
+i
+java:S2441…"MMake "List" and its parameters serializable or don't store it in the session.(·‡­âùÿÿÿÿ
+i
+java:S2441ˆ"MMake "List" and its parameters serializable or don't store it in the session.(¡ø¢…ÿÿÿÿÿ
+d
+java:S2441Š"MMake "List" and its parameters serializable or don't store it in the session.(ø½ÃÔ
+o
+java:S1989Œ"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ˆ–Ëÿÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢÷Äªûÿÿÿÿ

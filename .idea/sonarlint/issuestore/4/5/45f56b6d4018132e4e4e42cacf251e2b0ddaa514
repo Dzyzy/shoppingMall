@@ -1,0 +1,15 @@
+
+x	java:S116"cRename this field "classification_parent_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂïÂë
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©˜Ó»ùÿÿÿÿ
+8
+java:S1700"Rename field "classification"(¶Æ¼¤üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷“íùÿÿÿÿ
+x	java:S116"^Rename this field "classification_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ôÈûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍªıøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷“íùÿÿÿÿ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄĞ¡›
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´òœßúÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¿¨ö
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÍªıøÿÿÿÿ
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄĞ¡›
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö

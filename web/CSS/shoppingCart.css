@@ -1,0 +1,296 @@
+* {
+    margin: 0px;
+    text-decoration: none;
+}
+
+#shortcut {
+    height: 25px;
+    border: solid 1px #ddd;
+    background-color: #e3e4e5;
+}
+
+#shortcut_span_01 {
+    margin: 3px 100px;
+    font-size: 12px;
+    color: #666;
+}
+
+#shortcut_span_02 {
+    margin-left: 750px;
+}
+
+.shortcut_class_01 {
+    margin-left: 10px;
+    font-size: 12px;
+    color: #666;
+    text-decoration: none;
+}
+
+#header {
+    height: 120px;
+}
+
+#header img {
+    height: 80px;
+    width: 150px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+#header span {
+    font-size: 22px;
+    font-weight: bolder;
+    position: absolute;
+    top: 65px;
+    left: 280px;
+}
+
+#header_text_01 {
+    width: 450px;
+    height: 33px;
+    border-color: #0094e7;
+    position: relative;
+    left: 495px;
+    top: -30px;
+}
+
+#header_button_01 {
+    width: 50px;
+    height: 39px;
+    letter-spacing: 3px;
+    background-color: #0094e7;
+    border-color: #0094e7;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    left: 490px;
+    top: -28px;
+}
+
+#bobyer {
+    height: auto !important;
+    height: 200px;
+    min-height: 200px;
+    margin: auto 150px;
+    border-top: solid 3px #e6e6e6;
+    border-bottom: solid 3px #e6e6e6;
+}
+
+#bobyer ul {
+    list-style-type: none;
+}
+
+#bobyer_div_01 {
+    margin-top: 30px;
+    height: 30px;
+    width: 1130px;
+}
+
+#bobyer_div_01 span {
+    font-size: 12px;
+    color: #3c3c3c;
+}
+
+#checkbox {
+    position: relative;
+    top: 2px;
+    left: 20px;
+}
+
+#bobyer_span_00 {
+    margin-left: 22px;
+}
+
+#bobyer_span_01 {
+    margin-left: 85px;
+}
+
+#bobyer_span_02 {
+    margin-left: 400px;
+}
+
+#bobyer_span_03 {
+    margin-left: 150px;
+}
+
+#bobyer_span_04 {
+    margin-left: 123px;
+}
+
+#bobyer_span_05 {
+    margin-left: 100px;
+}
+
+.bobyer_class_01 {
+    height: 130px;
+    width: 1130px;
+    border: solid 1px #e3e4e5;
+    position: relative;
+}
+
+.bobyer_class_02 {
+    height: 80px;
+    width: 80px;
+    border: solid 1px #e3e4e5;
+}
+
+.num {
+    border: 0px;
+    width: 30px;
+    height: 18px;
+    margin-left: 5px;
+    text-align: center;
+    outline: none;
+}
+
+.less, .plus {
+    height: 25px;
+    width: 25px;
+}
+
+.bobyer_class_03 {
+    border-top: solid 1px #CCC;
+    border-bottom: solid 1px #CCC;
+    height: 23px;
+    width: 40px;
+}
+
+#bobyer_div_02 {
+    height: 50px;
+    width: 1010px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: #e5e5e5;
+}
+
+#bobyer_botton_01 {
+    position: relative;
+    left: 50px;
+    top: 8px;
+}
+
+.bobyer_class_09 {
+    font-size: 12px;
+    color: #3c3c3c;
+    letter-spacing: 1px;
+}
+
+#bobyer_span_06 {
+    font-size: 18px;
+    color: #ff4400;
+}
+
+#bobyer_span_07, #bobyer_span_08 {
+    font-size: 22px;
+    color: #ff4400;
+}
+
+#bobyer_span_09 {
+    position: relative;
+    left: 660px;
+    top: 8px;
+}
+
+#bobyer_span_10 {
+    position: relative;
+    left: 700px;
+    top: 8px;
+}
+
+#bobyer_div_03 {
+    height: 50px;
+    width: 122px;
+    float: left;
+    margin-top: 20px;
+    background-color: #ff4400;
+    text-align: center;
+    cursor: pointer;
+}
+
+#bobyer_span_11 {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.class_1 {
+    position: relative;
+    top: -50px;
+    left: 20px;
+}
+
+.class_2 {
+    position: relative;
+    left: 30px;
+    top: 19px;
+}
+
+.class_3 {
+    width: 250px;
+    height: 100px;
+    position: relative;
+    left: 150px;
+    top: -67px;
+}
+
+.class_4 {
+    font-size: 12px;
+    color: #3c3c3c;
+}
+
+.class_5 {
+    position: relative;
+    left: 600px;
+    top: -160px;
+}
+
+.class_6 {
+    position: absolute;
+    left: 749px;
+    top: 22px;
+}
+
+.class_7 {
+    position: relative;
+    left: 773px;
+    top: -185px;
+}
+
+.class_9 {
+    position: relative;
+    left: 813px;
+    top: -210px;
+}
+
+.class_10 {
+    position: relative;
+    left: 900px;
+    top: -210px;
+}
+
+.class_11 {
+    position: absolute;
+    left: 1052px;
+    top: 21px;
+}
+
+#tailer {
+    height: 55px;
+    margin-top: 70px;
+}
+
+#tailer p {
+    font-size: 12px;
+    color: #666;
+    font-weight: bold;
+    margin-left: 550px;
+}
+
+#tailer p span {
+    position: relative;
+    left: -30px;
+    top: 10px;
+}

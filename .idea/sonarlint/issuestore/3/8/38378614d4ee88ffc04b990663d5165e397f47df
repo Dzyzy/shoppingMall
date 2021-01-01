@@ -1,0 +1,44 @@
+
+o
+java:S2441P"MMake "List" and its parameters serializable or don't store it in the session.(ôıæÿÿÿÿÿ8Ô§‹æé.
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ó§óÿÿÿÿÿ8Ô§‹æé.
+W
+java:S1161":Add the "@Override" annotation above this method signature(°€İá8Ô§‹æé.
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Âƒ½ÿÿÿÿÿ8Ó³Èçé.
+k	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê†Åîûÿÿÿÿ
+f	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÉ
+r	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øôèáÿÿÿÿÿ8Ô§‹æé.
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8Ô§‹æé.
+r
+java:S1989y"PHandle the following exception that could be thrown by "getWriter": IOException.(î…êıÿÿÿÿÿ8Ô§‹æé.
+m
+java:S1192F"KDefine a constant instead of duplicating this literal "prod_price" 3 times.(Øôèáÿÿÿÿÿ8Ô§‹æé.
+D	java:S108u")Either remove or fill this block of code.(†èÒO8¿Æçé.
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–áŞæ
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÌÒ‡úÿÿÿÿ8Ô§‹æé.
+h
+java:S2441O"MMake "List" and its parameters serializable or don't store it in the session.(‘Ç‚Äıÿÿÿÿ
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÇêî8Ô§‹æé.
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷Ùıÿÿÿÿ8Ô§‹æé.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô•‘øÿÿÿÿ8Ô§‹æé.
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±½ƒÿÿÿÿÿ8Ô§‹æé.
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”ıÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ùâ¸şÿÿÿÿ
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¢İˆ8Ô§‹æé.
+o
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ8Ô§‹æé.
+e
+java:S1192D"JDefine a constant instead of duplicating this literal "prod_name" 3 times.(¹Ùâ¸şÿÿÿÿ
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹›ìŒ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó€àıÿÿÿÿ
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô“ë
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ã¬ñıÿÿÿÿ
+o
+java:S2441T"MMake "List" and its parameters serializable or don't store it in the session.(ÅÿäÑøÿÿÿÿ8Ó³Èçé.
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´8Ô§‹æé.
+d
+java:S1192E"IDefine a constant instead of duplicating this literal "prod_img" 3 times.(ó€àıÿÿÿÿ
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(°€İá8Ô§‹æé.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ

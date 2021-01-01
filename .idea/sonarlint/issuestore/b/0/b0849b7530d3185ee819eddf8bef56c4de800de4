@@ -1,0 +1,62 @@
+
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø‚–
+o
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÕŒÍÖ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û’›Ñ
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ï
+h
+java:S1192:"MDefine a constant instead of duplicating this literal "prod_pingjia" 3 times.(×ŒÂúùÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¢İˆ
+i
+java:S2441"MMake "List" and its parameters serializable or don't store it in the session.(‘Ç‚Äıÿÿÿÿ
+o
+java:S1989!"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ñ¶¥ô
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ùâ¸şÿÿÿÿ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëüúÿÿÿÿÿ
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÉ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±½ƒÿÿÿÿÿ
+`
+java:S1192!"JDefine a constant instead of duplicating this literal "orders_id" 4 times.(Ñ¶¥ô
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(°€İá
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø‚–
+e
+java:S1192J"JDefine a constant instead of duplicating this literal "user_name" 3 times.(—Á¬Àüÿÿÿÿ
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+c
+java:S11920"HDefine a constant instead of duplicating this literal "prod_id" 3 times.(»Ğé‡øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿œŒÔ
+i
+java:S2441Ÿ"MMake "List" and its parameters serializable or don't store it in the session.(ôıæÿÿÿÿÿ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶¥ô
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ğé‡øÿÿÿÿ
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ã¬ñıÿÿÿÿ
+^
+java:S1192D"HDefine a constant instead of duplicating this literal "user_id" 3 times.(™´
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÌÒ‡úÿÿÿÿ
+t
+java:S19890"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(»Ğé‡øÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­¾Ş
+f	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹›ìŒ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÓúÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷Ùıÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øôèáÿÿÿÿÿ
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–áŞæ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô“ë
+o
+java:S19892"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ñ¶¥ô
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¥Ö˜
+L
+java:S18544"6Remove this useless assignment to local variable "rs".(œè·
+g
+java:S1989 "PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶Ò 
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó€àıÿÿÿÿ
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶¥ô
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€İá

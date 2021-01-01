@@ -1,0 +1,21 @@
+
+f
+java:S19894"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+F
+java:S1128"0Remove this unused import 'Util.classification'.(Íâáü
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓßÄþÿÿÿÿ
+h
+java:S1192#"RDefine a constant instead of duplicating this literal "classification_id" 3 times.(ÒÚïÇ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›žŽ¸
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–šúÕþÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹èÕ¸ùÿÿÿÿ
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ­™’
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€Ýá
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó
+h
+java:S2441+"MMake "List" and its parameters serializable or don't store it in the session.(ÅÿäÑøÿÿÿÿ

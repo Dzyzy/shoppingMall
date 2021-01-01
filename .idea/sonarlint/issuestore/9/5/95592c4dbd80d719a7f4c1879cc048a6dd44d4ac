@@ -1,0 +1,19 @@
+
+t
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(•‘ξύÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(όεΣ½ϊÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(μυώΏ
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(γχινωÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€έα
+k
+java:S19893"PHandle the following exception that could be thrown by "getWriter": IOException.(ξ…κύÿÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Υλ±Δψÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'Util.Prod'.(’›ό
+U
+java:S1161":Add the "@Override" annotation above this method signature(Οϋ©Φϋÿÿÿÿ

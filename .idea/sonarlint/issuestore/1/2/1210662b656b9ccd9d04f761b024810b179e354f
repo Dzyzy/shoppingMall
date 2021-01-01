@@ -1,0 +1,20 @@
+
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù«Áşÿÿÿÿ8×è×ÉÊ.
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†À8×è×ÉÊ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ƒƒøÿÿÿÿ8×è×ÉÊ.
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8×è×ÉÊ.
+r
+java:S19893"PHandle the following exception that could be thrown by "getWriter": IOException.(›ºùÍúÿÿÿÿ8×è×ÉÊ.
+{
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¦ƒƒøÿÿÿÿ8×è×ÉÊ.
+l
+java:S1192"JDefine a constant instead of duplicating this literal "user_name" 3 times.(£ÙÓ—ÿÿÿÿÿ8×è×ÉÊ.
+o
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ8×è×ÉÊ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ8×è×ÉÊ.
+W
+java:S1161":Add the "@Override" annotation above this method signature(°€İá8×è×ÉÊ.
+m
+java:S1989+"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«8×è×ÉÊ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷è¶8×è×ÉÊ.

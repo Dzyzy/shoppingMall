@@ -1,0 +1,46 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ƒ„ıÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££èÂ
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+^
+java:S11929"HDefine a constant instead of duplicating this literal "prod_id" 3 times.(£ƒÉ
+e
+java:S1192?"JDefine a constant instead of duplicating this literal "prod_name" 4 times.(¹Ùâ¸şÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óéÌ™ùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(°€İá
+{
+java:S1192 "eDefine a constant instead of duplicating this literal "select * from prod where prod_name=?" 3 times.(Òë¨Ş
+f
+java:S1989o"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øôèáÿÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€İá
+k
+java:S1989K"PHandle the following exception that could be thrown by "getWriter": IOException.(î…êıÿÿÿÿÿ
+f
+java:S1989\"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÉ
+U
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+f
+java:S1989("PHandle the following exception that could be thrown by "getWriter": IOException.(®È…‹
+f
+java:S1989z"PHandle the following exception that could be thrown by "getWriter": IOException.(€“µ«
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££èÂ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ùâ¸şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Û¯
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó€àıÿÿÿÿ
+a
+java:S1192:"KDefine a constant instead of duplicating this literal "prod_count" 3 times.(ş¢İˆ
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ù¬–
+L
+java:S2692s"10 is a valid index, but is ignored by this check.(™Å¡Áúÿÿÿÿ
+o
+java:S1989_"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(˜ù¬–
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¢İˆ
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÉ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¬åÏ

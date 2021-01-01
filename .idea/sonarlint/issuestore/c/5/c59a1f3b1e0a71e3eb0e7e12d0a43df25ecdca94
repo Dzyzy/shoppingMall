@@ -1,0 +1,40 @@
+
+^
+java:S1192L"HDefine a constant instead of duplicating this literal "user_id" 3 times.(™´
+`
+java:S1192 "JDefine a constant instead of duplicating this literal "prod_name" 4 times.(££èÂ
+a
+java:S1192]"KDefine a constant instead of duplicating this literal "prod_count" 4 times.(˜ù¬–
+c
+java:S11921"HDefine a constant instead of duplicating this literal "prod_id" 3 times.(õ¥ıÏşÿÿÿÿ
+d
+java:S11920"IDefine a constant instead of duplicating this literal "prod_num" 3 times.(‰—şÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õ‘çÆûÿÿÿÿ
+s	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+s	java:S135?"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££èÂ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï÷¼¥úÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éïšÖúÿÿÿÿ
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ù¬–
+f	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘™•°úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üåÓ½úÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'Util.Orders_item'.(ôÿéõ
+[
+java:S1128"ERemove this unused import 'jdk.nashorn.internal.runtime.ListAdapter'.(Ì’ŠÎ
+P
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó
+h
+java:S1989"MHandle the following exception that could be thrown by "doPost": IOException.(ã÷éíùÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(°€İá
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(°€İá
+o
+java:S1989]"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(˜ù¬–
+l
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(î…êıÿÿÿÿÿ
+l
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(˜±ó½şÿÿÿÿ

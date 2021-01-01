@@ -1,0 +1,218 @@
+* {
+    margin: 0px;
+    text-decoration: none;
+}
+
+#header {
+    height: 100px;
+}
+
+#header_img_01 {
+    height: 70px;
+    width: 130px;
+    position: relative;
+    top: 17px;
+    left: 250px;
+}
+
+#header_span_01 {
+    display: inline-block;
+    position: relative;
+    left: 900px;
+    top: 15px;
+    font-size: 15px;
+    color: #AAAAAA;
+}
+
+#header a {
+    color: #0094e7;
+    font-weight: bold;
+}
+
+#bobyer {
+    background-color: #c7e6f5;
+    height: 770px;
+}
+
+#bobyer_div_01 {
+    width: 800px;
+    height: 70px;
+    position: relative;
+    left: 360px;
+    top: 60px;
+    border-bottom: solid 5px #efefef;
+    padding-left: 35px;
+    background-color: white;
+}
+
+#bobyer_div_01 span {
+    line-height: 70px;
+    color: #6f6f6f;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#bobyer_div_02 {
+    width: 835px;
+    height: 490px;
+    position: relative;
+    left: 360px;
+    top: 60px;
+    border-bottom: solid 3px #efefef;
+    background-color: white;
+}
+
+#bobyer_from_01 dl {
+    position: relative;
+    top: 50px;
+    width: 370px;
+    margin-left: 210px;
+    margin-bottom: 25px;
+}
+
+#bobyer_from_01 dl dt {
+    float: left;
+    padding-left: 20px;
+    line-height: 40px;
+}
+
+#bobyer_from_01 dl dd {
+    border: solid 1px #e3e4e5;
+    height: 40px;
+    line-height: 40px;
+}
+
+#name, #email, #password, #isPassword, #code {
+    height: 25px;
+    width: 250px;
+    margin-left: 30px;
+    border: solid 0px;
+    outline: none;
+    font-size: 15px;
+}
+
+#submit {
+    position: relative;
+    left: 85px;
+    top: 40px;
+    width: 370px;
+    height: 40px;
+    background-color: #999999;
+    border-color: #999999;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#name_span {
+    width: 180px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    left: 325px;
+    top: 94px;
+    font-size: 10px;
+    color: red;
+}
+
+#email_span {
+    width: 180px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    left: 325px;
+    top: 161px;
+    font-size: 10px;
+    color: red;
+}
+
+#password_span {
+    width: 180px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    left: 325px;
+    top: 228px;
+    font-size: 10px;
+    color: red;
+}
+
+#isPassword_span {
+    width: 180px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    left: 325px;
+    top: 294px;
+    font-size: 10px;
+    color: red;
+}
+
+#code_span {
+    width: 180px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    left: 325px;
+    top: 362px;
+    font-size: 10px;
+    color: red;
+}
+
+#bobyer_div_03 {
+    height: 100px;
+    width: 835px;
+    position: relative;
+    left: 360px;
+    top: 60px;
+    background-color: white;
+}
+
+#bobyer_div_03 p {
+    font-size: 14px;
+    color: #666666;
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+#checkbox {
+    position: relative;
+    left: 210px;
+}
+
+#bobyer_span_01 {
+    font-size: 12px;
+    color: #AAAAAA;
+    position: relative;
+    left: 212px;
+    top: -2px;
+}
+
+#code_span_change {
+    position: relative;
+    left: 297px;
+    top: -36px;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 22px;
+    background-image: url(../image/huhu.jpg)
+}
+
+#tailer {
+    height: 55px;
+}
+
+#tailer p {
+    font-size: 12px;
+    color: #666;
+    font-weight: bold;
+    margin-left: 650px;
+}
+
+#tailer p span {
+    position: relative;
+    left: -30px;
+    top: 10px;
+}
